@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+}
+
+.app-container {
+}
+
+@media only screen and (min-width: 641px) {
+    .app-container {
+    }
+}
