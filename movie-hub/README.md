@@ -1,39 +1,6 @@
-On the List page, display upcoming movies, in movie cards, sorted by latest first.
-Each movie card should display (in one line, use ellipsis at end)
-a. Movie media (picture)
-b. Movie Title
-c. Rating (average vote)
-d. Description
-2. The List page should allow for infinite scrolling. You may provide buttons for
-paging if you find that convenient (these are not in the mockup).
-3. Allow searching for movies using the search API. Search results should be
-displayed on the List page itself. When search is cancelled, it should revert to
-showing all movies again as in #1 above.
-4. When you click on a movie card, the app should navigate to the Details page
-showing movie details. Browser back button, or the home button on the Details
-page should navigate the user back to the List page. Details page should
-display
-a. Movie Title
-b. Rating (average vote)
-c. Year of release
-d. Length (HH:MM)
-e. Director
-f. Cast (Comma separated list of actors)
-g. Description
-5. Page design should be responsive with a minimum width of 512 pixels.
+#Due to time constraint, have office work as well and I have to submit by Friday EOD. I am submitting incomplete work
 
-
-
-
-
-
-
-
-
-
-
-
-
+#But as I get the time, I will keep updating this repo.
 
 
 # Getting Started with Create React App
